@@ -65,7 +65,30 @@ So, I have decided to only support chrome on my bot because if you create a user
       <li>Create a folder in "C:\" with the name "chromedriver" and paste the chromedrive.exe</li>
     </ol>
  Attention:After the browser updates, the chromedriver will became obsolete and you´ll not be able to use the bot unless you update it. You can disable Chrome updates to prevent it, but maybe you can find some script to auto updat eit. Just make sure that the chromedriver is in that location unless you change it in the .py file
-    
+    <br>
+    <h2>Using the Bot</h2>
+    Now the worst part is gone. You just have to do this and the bot is prepared
+    <ol>
+      <li>Click on the green button that says "code" on this repo and click "Download as zip"</li>
+      <li>Unzip It</li>
+      <li>Open the folder and change the schedule.csv to schedule.txt (Make sure that Windows as that option enabled, if you try to change the name of the file but you don´t see the ".csv" in the final of the file name, do as this tutorial says: https://vtcri.kayako.com/article/296-view-file-extensions-windows-10)</li>
+      <li>You will now see the example that I put. Don´t delete the first line, only the second. Write everything as it apppears, with no space and only seperated by ",". In the link space you will copy and paste the site link for the Google Classroom of that Class (something like: https://classroom.google.com(...))</li>
+      <li>Now open the .py file corresponding to your language and wait until class starts. The bot will verify if it´s the hour every 40 seconds</li>
+    </ol>
+      
+ <h1>Tips and Tricks</h1>
+ Here are some things to make this bot work better.
+ <ul>
+  <li><h3>Auto start the bot with Windows</h3></li>
+  So, for the bot to work the window of the bot must be open at the time at the class, but there is the chance that you will forget to open the bot. So to solve this:
+  <ol>
+    <li>Go to the bot location, click with the right button of your mouse, go to "Send to" section and select "Send to Desktop (Create Shortcut)</li>
+    <li>Press Win+R and write "shell:startup" and copy the shortcut</li>
+    <li><i>To start it minimized:</i>Right click the shortcut, go to properties, click in the "Execute" box and select "Minimized"</li>
+  </ol>
+  <li><h3>Use a virtual machine or other PC</h3></li>
+  Now, probably you will want to play videogames during the class, but the thing is when the time arrives, the control of you PC will be taken from you (and if it doesn´t I don´t recommend you to use the PC while the bot is executing) or you are just viweing a YouTube video. So, to make sure that the bot doesn´t ruin your fun, try to create a Virtual Machine, do everything in there and then you just leave it running with your PC so it will never ruin your Gaming Experinece. If your PC is not so great, try to find another PC and leave the bot running there.
+  
     
       
       
