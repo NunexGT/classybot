@@ -57,7 +57,7 @@ So, I have decided to only support chrome on my bot because if you create a user
         <li>Wait and when it doesn´t happen nothing in the screen for a while. It probably worked. If it´s happearing too many red caracters, probably you didn´t enter the cmd as admin (press shift when pressing ok on the run window).</li>
       </ol>
     </ul>
-        
+    <h3>chromedriver</h3>
       
         
     
