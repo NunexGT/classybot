@@ -58,6 +58,16 @@ So, I have decided to only support chrome on my bot because if you create a user
       </ol>
     </ul>
     <h3>chromedriver</h3>
+    <ol>
+      <li>Go to https://chromedriver.chromium.org/downloads</li
+      <li>Download the version that matches your browser and your OS(Probably the latest)</li>
+      <li>Unzip the file</li>
+      <li>Create a folder in "C:\" with the name "chromedriver" and paste the chromedrive.exe</li>
+    </ol>
+ Attention:After the browser updates, the chromedriver will became obsolete and you´ll not be able to use the bot unless you update it. You can disable Chrome updates to prevent it, but maybe you can find some script to auto updat eit. Just make sure that the chromedriver is in that location unless you change it in the .py file
+    
+    
+      
       
         
     
