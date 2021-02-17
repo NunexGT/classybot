@@ -31,5 +31,13 @@ So, I have decided to only support chrome on my bot because if you create a user
   <b>Note<b>: You can also edit the .py file in the line 50, change "profile 1" to "default" or any user with "profile (any number)". Make a trial and error when testing the bot         to see if it goes to the user of your choice. Just make sure that when the bot opens chrome, it uses the correct Google Account
     </ul>
 <h3>Python</h3>
+    <ul>
+      <li><h4>Install Python</h4></li>
+        Python it´s not really hard to install. If you could install Chrome, you probably will be able to install Python with no problems.
+      <br>
+      <b>Just make sure it´s version 3.9</b>
+    
+        
+    
   
 !Description and how to use guide coming soon!
