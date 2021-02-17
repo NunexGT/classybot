@@ -36,7 +36,27 @@ So, I have decided to only support chrome on my bot because if you create a user
         Python it´s not really hard to install. If you could install Chrome, you probably will be able to install Python with no problems.
       <br>
       <b>Just make sure it´s version 3.9</b>
-    
+      <ol>
+        <li>Go to https://www.python.org/downloads/, and press the Download Python 3.9.1 button</li>
+        <li>Open the Downloaded File</li>
+        <li>Select costum installation</li>
+        <li>Mark the box that says "pip" and leave the rest as it is.</li>
+        <li>Follow the instructions that appear</li>
+      </ol>
+      You can also watch this tutorial by <i>Amit Thinks</i> on YouTube:https://www.youtube.com/watch?v=IDo_Gsv3KVk
+      <li><h4>Install needed dependencies</h4><li>
+    Once Python and pip are installed. Do the following so the bot can execute correctly:
+      <ol>
+        <li>Prees Win+R buttons at the same time</li>
+        <li>Write "cmd" on the text field</li>
+        <li>Press the shift button at the same time you press "OK"</li>
+        <li>Press the Yes button</li>
+        <li>Come back to this repo and download the "requirement.txt" file</li>
+        <li>Write cd (path to "requirement.txt" file) on the cmd window. Probable example:cd C:\Users\(Your Username)\Downloads</li>
+        <li>write "pip install -r requirement.txt"</li>
+        <li>Wait and when it doesn´t happen nothing in the screen for a while. It probably worked</li>
+        
+      
         
     
   
