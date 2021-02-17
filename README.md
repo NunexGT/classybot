@@ -55,6 +55,8 @@ So, I have decided to only support chrome on my bot because if you create a user
         <li>Write cd (path to "requirement.txt" file) on the cmd window. Probable example:cd C:\Users\(Your Username)\Downloads</li>
         <li>write "pip install -r requirement.txt"</li>
         <li>Wait and when it doesn´t happen nothing in the screen for a while. It probably worked</li>
+      </ol>
+    </ul>
         
       
         
