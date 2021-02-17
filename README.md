@@ -89,6 +89,25 @@ So, I have decided to only support chrome on my bot because if you create a user
   <li><h3>Use a virtual machine or other PC</h3></li>
   Now, probably you will want to play videogames during the class, but the thing is when the time arrives, the control of you PC will be taken from you (and if it doesn´t I don´t recommend you to use the PC while the bot is executing) or you are just viweing a YouTube video. So, to make sure that the bot doesn´t ruin your fun, try to create a Virtual Machine, do everything in there and then you just leave it running with your PC so it will never ruin your Gaming Experinece. If your PC is not so great, try to find another PC and leave the bot running there.
   
+  <h1>Notes</h1>
+  <ul>
+  <li>This bot was made to run on Windows and Chrome, so please, understand that it´s not optimized to other scenarios. Feel free to edit the bot so more people can use it</li>
+  <li>The bot window must be running at the time of your class to work, so your PC also needs to be working at the time. What I´m saying is, if you want to sleep until late, you need to live your PC turned on</li>
+  </ul>
+  
+  <h1>Changelog</h1>
+  <h2>V1.0=Bot´s launch</h2>
+  <h2>V1.1=Added a feature where it´s not needed for the user to configure the path to the chrome user files. The bot will detect the Windows's user name and it will do it by itself</h2>
+  
+  <h1>Legal</h1>
+  I´m not responsible if you get any trouble using this bot
+  <br>
+  This bot is for Educational Porpuses
+  <br>
+  <br>
+  <br>
+  Bot created by SuperX-dev on GitHub
+  
     
       
       
