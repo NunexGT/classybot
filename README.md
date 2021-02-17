@@ -11,5 +11,6 @@ A bot that will open chrome, grab the most recent teacher comment it detects and
 
 <h1>How to Guide</h1>
 Now I will explain how you can use this bot.
+<br>
 Video Tutorial May be coming soon
 !Description and how to use guide coming soon!
