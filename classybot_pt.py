@@ -45,7 +45,7 @@ def find_comment(link, hour):
    
 
     options = Options()
-    options.add_argument("user-data-dir=C:\\Users\\Nuno Miguel\\AppData\\Local\\Google\\Chrome\\User Data")
+    options.add_argument("user-data-dir=C:\\Users\\(Your User Name)\\AppData\\Local\\Google\\Chrome\\User Data")
     options.add_argument("--profile-directory=Profile 1")
     driver = webdriver.Chrome(executable_path=r'C:\chromedriver\chromedriver.exe', chrome_options=options)
     driver.get(link)
