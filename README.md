@@ -54,7 +54,7 @@ So, I have decided to only support chrome on my bot because if you create a user
         <li>Come back to this repo and download the "requirement.txt" file</li>
         <li>Write cd (path to "requirement.txt" file) on the cmd window. Probable example:cd C:\Users\(Your Username)\Downloads</li>
         <li>write "pip install -r requirement.txt"</li>
-        <li>Wait and when it doesn´t happen nothing in the screen for a while. It probably worked</li>
+        <li>Wait and when it doesn´t happen nothing in the screen for a while. It probably worked. If it´s happearing too many red caracters, probably you didn´t enter the cmd as admin (press shift when pressing ok on the run window).</li>
       </ol>
     </ul>
         
