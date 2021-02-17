@@ -44,7 +44,7 @@ So, I have decided to only support chrome on my bot because if you create a user
         <li>Follow the instructions that appear</li>
       </ol>
       You can also watch this tutorial by <i>Amit Thinks</i> on YouTube:https://www.youtube.com/watch?v=IDo_Gsv3KVk
-      <li><h4>Install needed dependencies</h4><li>
+      <li><h4>Install needed dependencies</h4></li>
     Once Python and pip are installed. Do the following so the bot can execute correctly:
       <ol>
         <li>Prees Win+R buttons at the same time</li>
