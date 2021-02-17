@@ -96,8 +96,15 @@ So, I have decided to only support chrome on my bot because if you create a user
   </ul>
   
   <h1>Changelog</h1>
-  <h2>V1.0=Bot´s launch</h2>
-  <h2>V1.1=Added a feature where it´s not needed for the user to configure the path to the chrome user files. The bot will detect the Windows's user name and it will do it by itself</h2>
+  <h3>V1.0=Bot´s launch</h3>
+  <h3>V1.1=Added a feature where it´s not needed for the user to configure the path to the chrome user files. The bot will detect the Windows's user name and it will do it by itself</h3>
+  
+  <h1>Check this out</h1>
+  This bot was partially inspired by the Gmeet bot created by <i>Sheen Santos D. Capadngan</i> on GitHub:https://github.com/sheensantoscapadngan/gmeetbot
+  <br>
+  Also check his youtube video (it´s really great):
+  <br>
+  https://www.youtube.com/watch?v=UpDkXaEmHAs
   
   <h1>Legal</h1>
   I´m not responsible if you get any trouble using this bot
