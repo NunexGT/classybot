@@ -49,7 +49,7 @@ So, I have decided to only support chrome on my bot because if you create a user
       <ol>
         <li>Prees Win+R buttons at the same time</li>
         <li>Write "cmd" on the text field</li>
-        <li>Press the shift button at the same time you press "OK"</li>
+        <li>Press the cntrl and shift button at the same time you press "OK"</li>
         <li>Press the Yes button</li>
         <li>Come back to this repo and download the "requirement.txt" file</li>
         <li>Write cd (path to "requirement.txt" file) on the cmd window. Probable example:cd C:\Users\(Your Username)\Downloads</li>
@@ -121,4 +121,4 @@ So, I have decided to only support chrome on my bot because if you create a user
         
     
   
-!Description and how to use guide coming soon!
+
