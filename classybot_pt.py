@@ -13,7 +13,7 @@ from selenium.webdriver.common.by import By
 import schedule
 from selenium.webdriver.common.keys import Keys
 import os
-
+import getpass
 
 
 
@@ -41,11 +41,11 @@ def findTime():
 
 
 
-def find_comment(link, hour):
+def find_comment(link, hour, current_user):
    
 
     options = Options()
-    options.add_argument("user-data-dir=C:\\Users\\Nuno Miguel\\AppData\\Local\\Google\\Chrome\\User Data")
+    options.add_argument("user-data-dir=C:\\Users\\"+current_user+"\\AppData\\Local\\Google\\Chrome\\User Data")
     options.add_argument("--profile-directory=Profile 1")
     driver = webdriver.Chrome(executable_path=r'C:\chromedriver\chromedriver.exe', chrome_options=options)
     driver.get(link)
@@ -78,6 +78,7 @@ def lookup_schedule():
         hour = current_row['Hour']
         minute = current_row['Minute']
         day = current_row['DAY OF WEEK']
+        current_user=getpass.getuser()
         look_up = (day,hour,minute)
         print("LOOKUP RESULT:",look_up)
         print("Web Link for",subject,":" ,link)
@@ -85,7 +86,7 @@ def lookup_schedule():
             print("EXECUTING")
             kill_chrome()
             time.sleep(4)
-            find_comment(link, hour)
+            find_comment(link, hour, current_user)
     print('\n')
 
     
