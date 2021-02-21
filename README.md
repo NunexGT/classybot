@@ -57,10 +57,8 @@ So, I have decided to only support chrome on my bot because if you create a user
         <li>Wait and when it doesn´t happen nothing in the screen for a while. It probably worked. If it´s happearing too many red caracters, probably you didn´t enter the cmd as admin (press shift when pressing ok on the run window).</li>
       </ol>
       <br>
-      
       Warning:If cmd presents an error like "'pip' is not recognized as an internal or external command, operable program or batch file.", please follow the instructions on this video: https://youtu.be/zYdHr-LxsJ0. Make sure that you are using the same Python path installation as the installer used when you installed Python.
-      
-    </ul>
+      </ul>
     <h3>chromedriver</h3>
     <ol>
       <li>Go to https://chromedriver.chromium.org/downloads</li
