@@ -99,7 +99,7 @@ So, I have decided to only support chrome on my bot because if you create a user
   <li><h3>Give a delay on the schedule.csv file, to make sure that your teacher writes the comment were do you need to greet</h3></li>
 </ul>
 
-<h1>How to use the "Deliver Homework version"</h1>
+<h1>How to use the "Deliver Homework Edition"</h1>
 To use this is preety similar to the normal bot. It works independed from the original, so it´s a totally different file as well as the file you´ll configure it.
 Make sure that the date format used on the "deliver_hw.csv" file is dd/mm/yy. Then, instead of putting the classroom main page link, you put the work link. Just make sure that when the bot executes, you already had added the work as it was already ready to deliver.
   <h1>Notes</h1>
