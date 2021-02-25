@@ -12,7 +12,7 @@ A bot that will open chrome, grab the most recent teacher comment it detects and
 <br>
 <br>
 <br>
-Edit:Now with the classybot_deliver-homework_edition.py and the deliver_hw.csv, you now have the aility to send a time when your homework will be sent. Just make sure that what you what to sent is already on the work tab, ready to deliver. Now you can make sure that you have time to redeem yourself, but also you don´t forget to deliver the work you already have done.
+<b>Edit:</b>Now with the classybot_deliver-homework_edition.py and the deliver_hw.csv, you now have the aility to send a time when your homework will be sent. Just make sure that what you what to sent is already on the work tab, ready to deliver. Now you can make sure that you have time to redeem yourself, but also you don´t forget to deliver the work you already have done.
 
 
 <h1>How to Guide:</h1>
