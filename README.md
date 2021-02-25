@@ -5,8 +5,10 @@ A bot to greet your teachers in Google Classroom without having to wake up early
 Imagine the scenario where your area were affected by COVID lockdown and now you are at home and the governament decided to adapt your school to an online environemt. To make sure that during the class time you´re really wake up and stand by your computer, your teacher decides that you must greet them on Google Classroom, but that is just stupid or you just want to sleep, so here is the solution.
 <br>
 <p>Introducing the <b>ClassyBot</b></p>
-
+<br>
 A bot that will open chrome, grab the most recent teacher comment it detects and then comments with a "Good Morning" or a "Good Afternoon" (Portuguese version available) so your teacher thinks you´re there and you´ll never have to wake up early again! ;)
+<br>
+Edit:Now with the classybot_deliver-homework_edition.py and the deliver_hw.csv, you now have the aility to send a time when your homework will be sent. Just make sure that what you what to sent is already on the work tab, ready to deliver. Now you can make sure that you have time to redeem yourself, but also you don´t forget to deliver the work you already have done.
 
 
 <h1>How to Guide:</h1>
@@ -92,6 +94,10 @@ So, I have decided to only support chrome on my bot because if you create a user
   Now, probably you will want to play videogames during the class, but the thing is when the time arrives, the control of you PC will be taken from you (and if it doesn´t I don´t recommend you to use the PC while the bot is executing) or you are just viweing a YouTube video. So, to make sure that the bot doesn´t ruin your fun, try to create a Virtual Machine, do everything in there and then you just leave it running with your PC so it will never ruin your Gaming Experinece. If your PC is not so great, try to find another PC and leave the bot running there.
   <li><h3>Give a delay on the schedule.csv file, to make sure that your teacher writes the comment were do you need to greet</h3></li>
 </ul>
+
+<h1>How to use the "Deliver Homework version"</h1>
+To use this is preety similar to the normal bot. It works independed from the original, so it´s a totally different file as well as the file you´ll configure it.
+Make sure that the date format used on the "deliver_hw.csv" file is dd/mm/yy. Then, instead of putting the classroom main page link, you put the work link. Just make sure that when the bot executes, you already had added the work as it was already ready to deliver.
   <h1>Notes</h1>
   <ul>
   <li>This bot was made to run on Windows and Chrome, so please, understand that it´s not optimized to other scenarios. Feel free to edit the bot so more people can use it</li>
@@ -101,6 +107,8 @@ So, I have decided to only support chrome on my bot because if you create a user
   <h1>Changelog</h1>
   <h3>V1.0=Bot´s launch</h3>
   <h3>V1.1=Added a feature where it´s not needed for the user to configure the path to the chrome user files. The bot will detect the Windows's user name and it will do it by itself</h3>
+  <h3>V1.1.5=Now with the classybot_deliver-homework_edition.py and the deliver_hw.csv, you now have the aility to send a time when your homework will be sent. Just make sure that what you what to sent is already on the work tab, ready to deliver.</h3>
+  
   
   <h1>Check this out</h1>
   This bot was partially inspired by the Gmeet bot created by <i>Sheen Santos D. Capadngan</i> on GitHub:https://github.com/sheensantoscapadngan/gmeetbot
